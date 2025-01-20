@@ -10,7 +10,7 @@ This repository contains a collection of **30 SQL queries** designed for data an
 
 ## 🛠️ Technologies Used
 - SQL
-- MySQL
+- DBeaver
 
 ## 📂 Files in This Repository
 - **`sql.queries.sql`** - Contains the full set of SQL queries.
